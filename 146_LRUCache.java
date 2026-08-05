@@ -1,3 +1,4 @@
+import java.util.*;
 class LRUCache {
     class Node {
         int key, value;
