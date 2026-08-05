@@ -1,5 +1,6 @@
-import java.util.PriorityQueue;
 import java.util.*;
+import java.util.PriorityQueue;
+
 
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
