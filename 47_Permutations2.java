@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 47_Permutations2 {
+public class 47_Permutations2{
 
     public static List<List<Integer>> permuteUnique(int[] nums) {
 
